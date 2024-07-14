@@ -1,5 +1,6 @@
 # kis-attendance
 # TUTORIAL
-# cd kis-attendance
+//buat file lalu masuk ke directory file tsb
+# cd *Nama File*
 # npm install
 # npx expo start/npm start
